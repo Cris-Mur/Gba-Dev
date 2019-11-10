@@ -1,6 +1,6 @@
 # Hello World
 
-Using the template if Devkit-Gba for projects in gba.
+Using the template of Devkit-Gba for projects in gba.
 ## Description
 
 Basic program and basic example that print in the screen ant string.
