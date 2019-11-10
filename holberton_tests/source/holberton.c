@@ -86,5 +86,5 @@ int main(void){
     add_node_end(&head, "using c lenguage");
     printf("\n\n\n\n");
     print_list(head);
-	while (1);
+	while (true);
 }
