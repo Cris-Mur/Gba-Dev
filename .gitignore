@@ -1,0 +1,10 @@
+# Emacs Files
+
+*~
+*\#
+
+# Roms
+
+*.gba
+*.elf
+*.sav
