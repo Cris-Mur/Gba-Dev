@@ -1,0 +1,9 @@
+<Project name="Holberton_test">
+<MagicFolder excludeFolders="CVS;.svn" filter="*.h" name="include" path="include\">
+</MagicFolder>
+<MagicFolder excludeFolders="CVS;.svn" filter="*.c;*.cpp" name="source" path="source\">
+<File path="holberton.c">
+</File>
+</MagicFolder>
+<File path="Makefile">
+</File></Project>
