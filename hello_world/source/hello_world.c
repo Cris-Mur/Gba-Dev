@@ -14,7 +14,7 @@ int main(void) {
 	irqInit();
 	irqEnable(IRQ_VBLANK);
 
-	consoledemoInit();
+	consoleDemoInit();
 
 	printf("My name is: %s", name);
 	
