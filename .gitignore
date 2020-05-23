@@ -1,10 +1,16 @@
 # Emacs Files
-
 *~
 *\#
 
 # Roms
-
+*.o
+*.d
 *.gba
 *.elf
 *.sav
+.map
+
+# Dirs
+build/
+template/
+examples/
