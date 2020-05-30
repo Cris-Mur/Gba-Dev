@@ -53,7 +53,7 @@ visualboyadvance template.gba
 Tonc is a guide of the programing for GameBoy Advance (GBA), in this tutorial safe information of Video modes of gba, how works buttons, direct memory access, and others aspects.
 
 [TONC OFFICIAL GUIDE](http://www.coranac.com/tonc/text/toc.htm)
-[Tonc way guide](tonc_way/Readme.md)
+[Tonc way guide](Tonc_way/Readme.md)
 
 ## EverDrive GBA x5
 
