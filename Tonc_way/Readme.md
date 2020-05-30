@@ -4,9 +4,9 @@ ________
 
 The tonc way is an a guide following [Tonc in rot 13 by jasper Vijn](http://www.coranac.com/projects/tonc/) using [DevKitPro](https://devkitpro.org/) on Archlinux for Game Boy Advance by mario :V.
 
-To start i recommend that you domain C language and bit assembly, also good domain in software debug skills, and cool practice in develop software, all it is for you as developer, that become in a most powerfull tools but equal to you i learn in same time that a make this guide XD.
+To start i recommend that you domain C language and little bit assembly, also good domain in software debug skills, and good practices in develop software, all it is for you facilities as developer.
 
-the GameBoy Advance (GBA) is a low level machine in time to run games or programing games / software, it implies that you work with low level data as data types comprehension, bit wise operations, structures, pointers, registers, controllers, sensors and ports, in a few words you need have in mind All GameBoy.
+the GameBoy Advance (GBA) is a low level machine in the time run and programing games or software, it implies that you work near the hardware using data types comprehension, bit wise operations, structures, pointers, registers, controllers, sensors and ports, in a few words you have that manage All GameBoy.
 
  Software develop environment
 
@@ -28,7 +28,7 @@ we put the source code (.c files) in **source** directory, own libraries into **
 
 after you install DKP gba-dev package the tonc, and libgba libraries become to standard libraries this means you can write "#include <>" like this the libraries.
 
-i said that we handle data types it means that we a little modifies into standard data types
+I had said that we handle data types, it means that we a little modifies into standard data types
 
 | base  | alt name | unsigned | signed | volatile |
 | :---: | :------: | :------: | :----: | :------: |
@@ -36,7 +36,7 @@ i said that we handle data types it means that we a little modifies into standar
 | short | halfword | u16 | s16 |vu16 / vs16|
 |  int  |   word   | u32 | s32 |vu32 / vs32|
 
-is important that you understand that data types are a binary and hexa numbers (syntax: 0000:0000h) is important that in some cases you need view some variables like hex spaces with binary spaces for example:
+is important that you understand that data are a binary numbers with a hexadecimal adress (syntax: 0000:0000h) is important that in some cases you need view some variables like hexa boxes with binary spaces to modify and/or read for example:
 
 ```macro
 #define REG_DISPSTAT *(u16*)0x04000004
