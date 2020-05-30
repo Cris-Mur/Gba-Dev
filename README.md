@@ -26,7 +26,7 @@ Devkit is a provider of homebrew toolchains for Nintendo wii, gamecube, ds, gba,
 
 #### DPK installation
 
-first of all [follow the guide](https://devkitpro.org/wiki/Getting_Started), in case of Arch-linux which is an OS with pacman for packet manager the installation is simple. [Arch-installing](https://devkitpro.org/wiki/devkitPro_pacman#Customising_Existing_Pacman_Install)
+first of all [follow the guide](https://devkitpro.org/wiki/Getting_Started), in case of Arch-linux which is an OS with pacman for packet manager the installation is simple. [Arch-installing](DKP_Arch_install.md)
 
 after the installation you run this command:
 
