@@ -82,3 +82,10 @@ Battery GBA  GBA: 2x1.5V DC (AA), Life-time approx. 15 hours
 Battery SP   GBA SP: Built-in rechargeable Lithium ion battery, 3.7V 600mAh  
 External    GBA: 3.3V DC 350mA - GBA SP: 5.2V DC 320mA
 ```
+
+
+for more details you can see this pages with more info ;)
+[GBATEK v2001-2007](http://www.akkit.org/info/gbatek.htm)
+[GBATEK X2001-2014](http://www.akkit.org/info/gbatek.htm)
+[GBATEK md MGBA-FORK](https://mgba-emu.github.io/gbatek/)
+
