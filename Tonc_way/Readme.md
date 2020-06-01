@@ -42,9 +42,10 @@ is important that you understand that data are a binary numbers with a hexadecim
 #define REG_DISPSTAT *(u16*)0x04000004
 ```
 REG_DISPSTAT @0400:0004h
-| F E D C B A 9 8 | 7 6  |  5   |  4   |  3   | 2(read only) | 1(r) | 0(r) |
-| :-------------: | :--: | :--: | :--: | :--: | :----------: | :--: | :--: |
-|       VcT       |  --  | VcI  | HbI  | VbI  |     VcS      | HbS  | VbS  |
+|  F E D C B A 9 8  | 7 6  |  5   |  4   |  3   | 2(read only) | 1(r) | 0(r) |
+| :---------------: | :--: | :--: | :--: | :--: | :----------: | :--: | :--: |
+|        VcT        |  --  | VcI  | HbI  | VbI  |     VcS      | HbS  | VbS  |
+| 0/1 0 0 0 0 0 0 0 | 0 0  | 0 0  |  0   |  0   |      0       |  0   |  0   |
 
 [GBA hardware](hardware.md)
 
