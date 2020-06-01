@@ -6,7 +6,7 @@
 
 GameBoy advance is a beauty portable console.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Nintendo-Game-Boy-Advance-Purple-FL.jpg" alt="GBA" style="zoom: 10%;" /><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gameboy-Advance-SP-Mk2.jpg" alt="GBA SP" style="zoom:11%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Nintendo-Game-Boy-Advance-Purple-FL.jpg" alt="GBA" width="240" height="160"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gameboy-Advance-SP-Mk2.jpg" alt="GBA SP" width="240" height="160" />
 
 ## GBA Technical Data
 
